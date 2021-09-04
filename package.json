@@ -1,7 +1,7 @@
 {
-    "name": "vanadium",
+    "name": "emily ",
     "version": "1.0.0",
-    "description": "A powerful web-proxy site powered by Corrosion",
+    "description": "uhhh emily i thinkk i don remeber",
     "main": "server.js",
     "scripts": {
         "test": "node server.js",
@@ -18,7 +18,7 @@
         "titaniumnetwork",
         "vanadium"
     ],
-    "author": "LinuxTerm and LQ16",
+    "author": "emily (NOT SKID I SWEAR GUYS PLSSS)",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/titaniumnetwork-dev/vanadium/issues"
